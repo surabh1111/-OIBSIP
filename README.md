@@ -19,7 +19,7 @@
 
 | Field | Details |
 | --- | --- |
-| **Name** | Vaishali Zade |
+| **Name** | Surabhi Manapure |
 | **Internship** | Oasis Infobyte Internship |
 | **Domain** | Data Science |
 | **Programming Language** | Python |
@@ -311,9 +311,9 @@ The internship helped strengthen practical knowledge of Python, machine learning
 
 ## 👩‍💻 Author
 
-**Vaishali**  
+**SURABHI**  
 
-GitHub: [Zvaishali28](https://github.com/Zvaishali28)
+GitHub: [surabh1111]https://github.com/surabh1111/-OIBSIP
 
 ---
 
